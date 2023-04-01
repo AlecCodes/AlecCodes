@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Spring Boot.
-- 🩸 I’m currently working on an app for diabetics.
+- 🩸 I’m working on an app for diabetics.
 - 🔭 I’m looking to contribute to the TidePool project.
 
 
