@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Spring Boot.
+- 🌱 I’m currently learning about Server-side Task Scheduling.
 - ❄️🌨 I’m working on an app for skiiers.
 - 🔭 I’m looking to contribute to the TidePool project.
 
