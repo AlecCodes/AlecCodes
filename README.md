@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning about One-to-many relationships in SQL.
-- ❄️🌨 I’m working on an app for skiiers.
+- ☕ I’m in interested in JPA Repository.
 - 🔭 I’m looking to contribute to the TidePool project.
 
 
