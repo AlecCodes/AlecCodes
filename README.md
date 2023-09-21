@@ -1,4 +1,5 @@
 ### Hi there 👋
+- ❄️ Currently working on an app for skiers and snowboarders
 - 🌱 I’m currently learning about Many-to-many relationships in SQL.
 - ☕ I’m in interested in JPA Repository.
 - 🔭 I’m looking to contribute to the TidePool project.
